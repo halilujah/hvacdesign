@@ -15,7 +15,13 @@
       "Bash(npm run build)",
       "Bash(git init)",
       "Bash(git add -A)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(gh repo view halilujah/hvacdesign --json name)",
+      "Bash(where gh)",
+      "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" --version)",
+      "Bash(\"/c/Program Files \\(x86\\)/GitHub CLI/gh.exe\" --version)",
+      "Bash(cmd.exe /c \"gh --version\")",
+      "Bash(git remote add origin https://github.com/halilujah/hvacdesign.git)"
     ]
   }
 }
